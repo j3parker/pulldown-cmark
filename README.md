@@ -1,8 +1,7 @@
 # pulldown-cmark
 
 [![crates.io](https://img.shields.io/crates/v/html5ever.svg)](https://crates.io/crates/html5ever)
-
-[Documentation](https://docs.rs/pulldown-cmark/)
+[![Documentation](https://docs.rs/pulldown-cmark/badge.svg)](https://docs.rs/pulldown-cmark/)
 
 This library is a pull parser for [CommonMark](http://commonmark.org/), written
 in [Rust](http://www.rust-lang.org/). It comes with a simple command-line tool,
